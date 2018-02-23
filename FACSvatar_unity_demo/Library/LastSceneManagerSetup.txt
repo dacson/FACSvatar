@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scenes/MB_demo_asian_female_ready.unity
+  isLoaded: 1
+  isActive: 1

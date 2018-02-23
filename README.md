@@ -1,2 +1,25 @@
 # FACSvatar
-Code to run a Python server which can communicate with Unity3D is based on: https://github.com/tawnkramer/sdsandbox/tree/master
+
+Framework to create high-quality avatars based on Manuel Bastioni Blender plugin and control their facial expressions in game engines like Unity3D and Unreal Engine (not yet implemented) with an intermediate dataformat based on the Facial Action Coding System (FACS). FACS data is retrieved through OpenFace.
+
+Running (so far) both on Windows and Linux (Ubuntu).
+
+
+# Setup instructions
+Will be listed soon.
+
+- docker run -it -p 8080:8080 crossbario/crossbar
+
+## Software
+* Blender + Manuel Bastioni Lab addon  (create human models)
+* OpenFace  (extract FACS data)
+* Unity 3D 2017.2 (animate in game engine)
+* Crossbar.io  (Publisher-Subscriber model)
+* Docker  (containerization for easy distribution)
+
+
+
+# TODO
+
+- Create a docker image for the Python server
+https://runnable.com/docker/python/dockerize-your-python-application

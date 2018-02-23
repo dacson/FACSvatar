@@ -1,0 +1,7 @@
+#!/bin/sh
+
+# below only installed to show how to add Python packages into the container
+# RUN echo nameserver 8.8.8.8 > /etc/resolv.conf && 
+pip install --no-cache -r requirements.txt
+
+python -u pub_facs.py
