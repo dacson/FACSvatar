@@ -103,12 +103,12 @@ ENV/
 
 # Unity project stuff
 
-/[Ll]ibrary/
-/[Tt]emp/
-/[Oo]bj/
-/[Bb]uild/
-/[Bb]uilds/
-/Assets/AssetStoreTools*
+/unity_demo/[Ll]ibrary/
+/unity_demo/[Tt]emp/
+/unity_demo/[Oo]bj/
+/unity_demo/[Bb]uild/
+/unity_demo/[Bb]uilds/
+/unity_demo/Assets/AssetStoreTools*
 
 # Visual Studio 2015 cache directory
 /.vs/
