@@ -4,9 +4,9 @@ Framework to create high-quality avatars based on Manuel Bastioni Blender plugin
 
 Running (so far) both on Windows and Linux (Ubuntu).
 
-
-# Setup instructions
-Will be listed soon.
+# Documentation & Setup instructions
+Will appear here soonish:
+https://facsvatar.readthedocs.io/en/latest/
 
 - docker run -it -p 8080:8080 crossbario/crossbar
 
@@ -21,5 +21,6 @@ Will be listed soon.
 
 # TODO
 
+- Update Sphinx documentation
 - Create a docker image for the Python server
 https://runnable.com/docker/python/dockerize-your-python-application
