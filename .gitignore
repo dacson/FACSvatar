@@ -142,7 +142,7 @@ sysinfo.txt
 *.unitypackage
 
 # OpenFace webcam videos
-FACSvatar_src/cb-csv-facs/app/openface
+modules/01_csv-facs/app/openface
 
 # PyCharm
 .idea
