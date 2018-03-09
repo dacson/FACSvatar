@@ -16,7 +16,7 @@ https://facsvatar.readthedocs.io/en/latest/
 * Blender + Manuel Bastioni Lab addon  (create human models)
 * OpenFace  (extract FACS data)
 * Unity 3D 2017.2 (animate in game engine)
-* Crossbar.io  (Publisher-Subscriber model)
+* Crossbar.io / ROS (Publisher-Subscriber model)
 * Docker  (containerization for easy distribution)
 
 
