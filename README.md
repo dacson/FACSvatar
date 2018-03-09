@@ -5,7 +5,9 @@ Framework to create high-quality avatars based on Manuel Bastioni Blender plugin
 Running (so far) both on Windows and Linux (Ubuntu).
 
 # Documentation & Setup instructions
-Will appear here soonish:
+Currently considering switching from Crossbar.io to ROS.
+
+Will appear when message broker has been decided:
 https://facsvatar.readthedocs.io/en/latest/
 
 - docker run -it -p 8080:8080 crossbario/crossbar
