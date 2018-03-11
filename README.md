@@ -1,6 +1,6 @@
 # FACSvatar
 
-Framework to create high-quality avatars based on Manuel Bastioni Blender plugin and control their facial expressions in game engines like Unity3D and Unreal Engine (not yet implemented) with an intermediate dataformat based on the [Facial Action Coding System (FACS)] (https://en.wikipedia.org/wiki/Facial_Action_Coding_System "https://en.wikipedia.org/wiki/Facial_Action_Coding_System") by Paul Ekman. FACS data is retrieved through [OpenFace](https://github.com/TadasBaltrusaitis/OpenFace "https://github.com/TadasBaltrusaitis/OpenFace").
+Framework to create high-quality avatars based on Manuel Bastioni Blender plugin and control their facial expressions in game engines like Unity3D and Unreal Engine (not yet implemented) with an intermediate dataformat based on the [Facial Action Coding System (FACS)](https://en.wikipedia.org/wiki/Facial_Action_Coding_System "https://en.wikipedia.org/wiki/Facial_Action_Coding_System") by Paul Ekman. FACS data is retrieved through [OpenFace](https://github.com/TadasBaltrusaitis/OpenFace "https://github.com/TadasBaltrusaitis/OpenFace").
 
 Running (so far) both on Windows and Linux (Ubuntu).
 
