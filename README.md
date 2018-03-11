@@ -2,9 +2,10 @@
 
 Framework to create high-quality avatars based on Manuel Bastioni Blender plugin and control their facial expressions in game engines like Unity3D and Unreal Engine (not yet implemented) with an intermediate dataformat based on the [Facial Action Coding System (FACS)](https://en.wikipedia.org/wiki/Facial_Action_Coding_System "https://en.wikipedia.org/wiki/Facial_Action_Coding_System") by Paul Ekman. FACS data is retrieved through [OpenFace](https://github.com/TadasBaltrusaitis/OpenFace "https://github.com/TadasBaltrusaitis/OpenFace").
 
+The purpose is too offer an easy to customize, open source framework that enables both the animation of avatars with just a webcam, and use the same data for analysis by Embodied Conversational Agents (ECA). A video and poster can be found on the [FACSvatar homepage](https://surafusoft.eu/facsvatar/ "https://surafusoft.eu/facsvatar/")
+
 Running (so far) both on Windows and Linux (Ubuntu).
 
-A video and poster can be found on the [FACSvatar homepage](https://surafusoft.eu/facsvatar/ "https://surafusoft.eu/facsvatar/")
 
 # Documentation & Setup instructions
 Currently considering switching from Crossbar.io to ZeroMQ.
