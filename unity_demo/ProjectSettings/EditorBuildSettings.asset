@@ -6,8 +6,8 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 0
-    path: Assets/Scenes/MB_demo_asian_female_ready_nature.unity
-    guid: 619977a8c26714ace918fd2aeae77277
-  - enabled: 1
-    path: Assets/Scenes/MB_demo_caucasian_male_ready_nature.unity
-    guid: 5b67db43b4c93ba4cbb32359a7094ff9
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
